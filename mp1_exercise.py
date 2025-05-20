@@ -98,16 +98,3 @@ def replay(choice):
         return True
     elif choice.lower()=="false":
         return False
-
-
-
-
-
-
-     
-
-
-
-
-    
-
