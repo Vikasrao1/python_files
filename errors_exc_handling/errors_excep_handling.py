@@ -1,4 +1,5 @@
 # Try, except, Finally (idea behind these stmts even if error happens we're going to try to do that block of code/continue with somemore code)
+
 try:
     f = open('testfile' ,'w')
     f.write("Write a first line")
@@ -26,5 +27,4 @@ def ask_for_int():
             print("End of try/except/finally")
             print("I always run at the end!")
 
-ask_for_int()
-                           
+ask_for_int()                        
